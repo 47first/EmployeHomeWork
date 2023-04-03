@@ -1,0 +1,8 @@
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\bin\Debug\EmployeHomeWork.exe.config
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\bin\Debug\EmployeHomeWork.exe
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\bin\Debug\EmployeHomeWork.pdb
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\obj\Debug\EmployeHomeWork.csproj.AssemblyReference.cache
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\obj\Debug\EmployeHomeWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\obj\Debug\EmployeHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\obj\Debug\EmployeHomeWork.exe
+C:\Users\lyagu\Desktop\EmployeHomeWork\EmployeHomeWork\EmployeHomeWork\obj\Debug\EmployeHomeWork.pdb
